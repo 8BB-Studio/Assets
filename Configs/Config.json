@@ -1,0 +1,11 @@
+{
+  "Port": "COM7",
+  "BaudRate": 115200,
+  "Pos": {
+    "Top": 0,
+    "Left": 0,
+    "Width": 1280,
+    "Height": 1024,
+    "WindowState": 0
+  }
+}
